@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b1ba535-0d3c-4e42-82d6-f721c363d724" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/golang-restApi/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang-restApi/files/Каримов_Умед_Хилолович_для_сайта_Института.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang-restApi/handlers/db/admin.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang-restApi/handlers/db/db-connection.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang-restApi/handlers/models/employee.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang-restApi/handlers/routers/routing.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang-restApi/sql.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang-restApi/utils/helpers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/golang-restApi/utils/util.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/db-connection.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/employee.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/golang-restApi/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/golang-restApi/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/handlers.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-restApi/handlers/db/handlers.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/images/alldata.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/images/browser.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/images/delete.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/images/post.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/images/put.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/golang-restApi/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/golang-restApi/routing.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front" beforeDir="false" afterPath="$PROJECT_DIR$/Front" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/.env.development" beforeDir="false" afterPath="$PROJECT_DIR$/Front/.env.development" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/.env.production" beforeDir="false" afterPath="$PROJECT_DIR$/Front/.env.production" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/components/layout/InsideHeader/InsideHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/components/layout/InsideHeader/InsideHeader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/src/components/layout/InsideHeader/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Front/src/components/layout/InsideHeader/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/university" beforeDir="false" afterPath="$PROJECT_DIR$/university" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/university/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/university/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +28,7 @@
   </component>
   <component name="GOROOT" url="file:///usr/lib/go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/golang-restApi" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/university" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -56,21 +42,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="go.format.on.save.advertiser.fired" value="true" />
-    <property name="go.formatter.settings.were.checked" value="true" />
-    <property name="go.import.settings.migrated" value="true" />
-    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
-    <property name="go.sdk.automatically.set" value="true" />
-    <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Hakim" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/home/hk"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -98,6 +83,6 @@
     </option>
   </component>
   <component name="VgoProject">
-    <integration-enabled>true</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
 </project>
